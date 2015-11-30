@@ -2,11 +2,11 @@
 Mikasa
 ======
 
-Mikasa is Misaka[1] based Markdown to XHP convertor written in Python. 
-The parser is Hoedown[2] called through CFFI by Misaka.
+Mikasa is Misaka based Markdown to XHP convertor written in Python. 
+The parser is Hoedown called through CFFI by Misaka.
 
-[1]: https://github.com/FSX/misaka
-[2]: https://github.com/hoedown/hoedown
+* Misaka: https://github.com/FSX/misaka
+* Hoedown: https://github.com/hoedown/hoedown
 
 
 ## How to use
@@ -38,10 +38,10 @@ If you want to provider online help as part of your extension of the office,
 you need provide them in XHP format. But it is hard to write the file by hand. 
 This tool allows you to write your help files in Markdown.
 
-See the developer's guide[3] for more detail of the XHP file format and 
+See the developer's guide[ref] for more detail of the XHP file format and 
 directory structure in your extension package.
 
-[3]: https://wiki.openoffice.org/wiki/Documentation/DevGuide/Extensions/Help_Content
+[ref]: https://wiki.openoffice.org/wiki/Documentation/DevGuide/Extensions/Help_Content
 
 
 ## Directory structure
