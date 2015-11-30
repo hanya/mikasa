@@ -38,10 +38,10 @@ If you want to provider online help as part of your extension of the office,
 you need provide them in XHP format. But it is hard to write the file by hand. 
 This tool allows you to write your help files in Markdown.
 
-See the developer's guide[ref] for more detail of the XHP file format and 
+See the developer's guide for more detail of the XHP file format and 
 directory structure in your extension package.
 
-[ref]: https://wiki.openoffice.org/wiki/Documentation/DevGuide/Extensions/Help_Content
+Developer's Guide: https://wiki.openoffice.org/wiki/Documentation/DevGuide/Extensions/Help_Content
 
 
 ## Directory structure
