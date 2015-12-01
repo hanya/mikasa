@@ -32,7 +32,7 @@ optional arguments:
 
 ## About XHP file format
 XHP file format is help file for OpenOffice. It is converted into HTML while 
-showing in the help viewer of the office.
+showing in the help viewer of the office. The text data must be encoded in UTF-8.
 
 If you want to provider online help as part of your extension of the office, 
 you need provide them in XHP format. But it is hard to write the file by hand. 
